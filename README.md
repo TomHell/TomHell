@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome ]-[ Bienvenido
 
-<!--
-**TomHell/TomHell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi guys, I am Tom Hell and moved up to Switzerland where a fantastic time started for me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interested in**
+- photography & nature, night sky, kayak & fishing and cleanup the nature
+- our Land Rover Defender 300 Tdi from 1998
+- I do not follow the main-stream
+- Arduino projects ⚡
+
+---
+
+**Technical skills**
+- PHP & Yii2
+- JS, AlpineJs
+- CSS, TailwindCss
+- Craft CMS
+- Apache & NGINX
